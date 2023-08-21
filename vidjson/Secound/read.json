@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "pagelink": "",
+            "title": "r1",
+            "imagelink": "",
+            "url": "www.google.com"
+        },
+        {
+            "id": "2",
+            "pagelink": "",
+            "title": "r2",
+            "imagelink": "",
+            "url": "www.google.com"
+        },
+        {
+            "id": "3",
+            "pagelink": "",
+            "title": "r3",
+            "imagelink": "",
+            "url": "www.google.com"
+        }
+        
+    ]
+}
